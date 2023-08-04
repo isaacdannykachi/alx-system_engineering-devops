@@ -1,2 +1,2 @@
 #!/bin/bash
-su chown -R vincent:school
+sudo chown vincent:school
