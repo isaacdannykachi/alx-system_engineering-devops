@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n3 iacta
+find -type f iacta | cat -n3
