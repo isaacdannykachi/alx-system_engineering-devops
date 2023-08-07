@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f iacta | cat -n3
+head n-3 iacta | tail n-1
